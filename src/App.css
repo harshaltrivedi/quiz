@@ -1,3 +1,29 @@
+.turn > div {
+  height: 400px;
+}
+
+.turn {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.authorimage {
+  max-height: 100%;
+  max-width: 500px;
+}
+
+.answers {
+  background-color: skyblue;
+  margin-bottom: 20px;
+  border-block-width: 2px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.answers:hover {
+  background-color: green;
+}
+
 .App {
   text-align: center;
 }
